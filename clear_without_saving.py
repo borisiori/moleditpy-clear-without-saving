@@ -20,7 +20,7 @@ PLUGIN_DESCRIPTION = (
     "skipping the unsaved-changes dialog"
 )
 PLUGIN_DEPENDENCIES = []
-PLUGIN_TAGS = ["Utility", "File"]
+PLUGIN_TAGS = ["Utility"]
 PLUGIN_CONTEXT = None
 
 ACTION_LABEL = "Clear without Saving"
