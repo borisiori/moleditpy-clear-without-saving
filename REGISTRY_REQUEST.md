@@ -1,9 +1,11 @@
 # Registry request — Register New Plugin: Clear Without Saving
 
-Submitted and under review: https://github.com/HiroYokoyama/moleditpy-plugins/issues/61
-Born from python_molecular_editor#191, where the maintainer suggested the
-plugin approach over a core change; v2026.11.08 is the asset proposed
-for registration.
+**Approved and registered 2026-11-09**: https://github.com/HiroYokoyama/moleditpy-plugins/issues/61
+Security review passed; the release asset was verified byte-identical to
+the repository source and all 9 plugin tests pass on MoleditPy 5.1.3.
+Listed in the official registry (`REGISTRY/plugins.json`, visible) under
+the id `clear_without_saving`. Born from python_molecular_editor#191,
+where the maintainer suggested the plugin approach over a core change.
 
 ---
 
